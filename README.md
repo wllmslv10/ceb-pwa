@@ -22,3 +22,12 @@ Repositório criado e documentado. **O instalador ainda não foi implementado ou
 ## Cuidados
 
 Não alterar a CEB oficial, banco Neon, Cloudflare, autenticação ou outro PWA sem autorização. Para instalação como PWA, avaliar a integração com o domínio da CEB e os requisitos do navegador antes de implementar.
+
+## Identidade visual — arquivos aprovados em 26/10/2026
+
+- Ícone aprovado: **imagem 2**, azul-marinho com cantos arredondados, pomba branca e letras IBNE.
+- Nome completo: **CEB — Central de Estudos Bíblicos | Igreja Batista Nova Esperança**.
+- Foram preparados arquivos PNG 192×192 e 512×512 e um pacote com as seis imagens originais, para arquivamento na CEB V2.
+- **Pendente:** transferir os binários ao GitHub. Não substituir a imagem aprovada pelo SVG provisório.
+- Na CEB V2 já existem manifesto e registro de service worker; é preciso validar o deploy e a instalação após adicionar os PNGs.
+- Destino previsto: `central-estudos-biblicos-v2/public/icon-192.png`, `public/icon-512.png` e pasta `identidade-visual/`.
